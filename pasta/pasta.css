@@ -1,0 +1,55 @@
+.main {
+  background-color: #fad4d4;
+  background-image: url(pastas.png);
+  background-position: top-left;
+  background-attachment: fixed;
+  background-size: 1200px 1200px;
+  background-repeat: no-repeat;
+  background-blend-mode: darken;
+  text-align: center;
+}
+.main img {
+  border: white;
+}
+.main h1 {
+  font-size: 4rem;
+  font-weight: bolder;
+}
+
+.main h5 {
+  height: 50%;
+  font-size: 1.5rem;
+  background-color: azure;
+}
+.pasta {
+  background: #fad4d4;
+}
+.pasta h1 {
+  align-items: center;
+  padding-left: 600px;
+}
+.pasta img {
+  padding-left: 7%;
+}
+hr {
+  border-color: black;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+}
+.gob {
+  background: #fad4d4;
+}
+.gob h1 {
+  align-items: center;
+  padding-left: 600px;
+}
+.yours {
+  background: #fad4d4;
+}
+.yours form {
+  padding-left: 500px;
+}
+.yours h1 {
+  padding-left: 500px;
+}
